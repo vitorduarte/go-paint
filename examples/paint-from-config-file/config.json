@@ -1,0 +1,9 @@
+{
+    "template": "img/gopher.png",
+    "masks": [
+        { "path": "img/mask-body.png", "color": "#74cddd" },
+        { "path": "img/mask-eyes.png", "color": "#fff" },
+        { "path": "img/mask-foots.png", "color": "#f6d2a2" },
+        { "path": "img/gopher.png", "color": "#000" }
+    ]
+}
